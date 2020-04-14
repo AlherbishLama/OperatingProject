@@ -1,0 +1,112 @@
+The Total number of jobs processed : 100
+The Average job size is : 146.0
+ The Minimum job size is : 18
+ The Maximum job size is : 255
+Number of jobs that completed normally is : 79
+Number of jobs that completed abnormally is : 21
+CPU utilization is : 75.86% 
+Number of jobs serviced by I/O device. is :185
+I/O device utilization is :80.85% 
+Average waiting time is :391.99
+***************************************************************************************************** 
+                       List of all process that was terminate 
+PID: 81 ,  CUT: 3  ,  IRT: 0  ,  WT: 0  ,  termination status: Normal
+PID: 51 ,  CUT: 1  ,  IRT: 0  ,  WT: 0  ,  termination status: Normal
+PID: 67 ,  CUT: 5  ,  IRT: 0  ,  WT: 0  ,  termination status: Normal
+PID: 62 ,  CUT: 2  ,  IRT: 0  ,  WT: 0  ,  termination status: Abnormal
+PID: 33 ,  CUT: 4  ,  IRT: 0  ,  WT: 0  ,  termination status: Normal
+PID: 86 ,  CUT: 3  ,  IRT: 0  ,  WT: 0  ,  termination status: Abnormal
+PID: 42 ,  CUT: 6  ,  IRT: 0  ,  WT: 0  ,  termination status: Normal
+PID: 26 ,  CUT: 3  ,  IRT: 0  ,  WT: 0  ,  termination status: Abnormal
+PID: 21 ,  CUT: 3  ,  IRT: 0  ,  WT: 0  ,  termination status: Normal
+PID: 44 ,  CUT: 4  ,  IRT: 0  ,  WT: 0  ,  termination status: Normal
+PID: 45 ,  CUT: 2  ,  IRT: 0  ,  WT: 0  ,  termination status: Normal
+PID: 75 ,  CUT: 2  ,  IRT: 0  ,  WT: 0  ,  termination status: Normal
+PID: 72 ,  CUT: 8  ,  IRT: 0  ,  WT: 0  ,  termination status: Normal
+PID: 13 ,  CUT: 2  ,  IRT: 0  ,  WT: 0  ,  termination status: Normal
+PID: 85 ,  CUT: 2  ,  IRT: 0  ,  WT: 0  ,  termination status: Normal
+PID: 71 ,  CUT: 2  ,  IRT: 0  ,  WT: 0  ,  termination status: Normal
+PID: 99 ,  CUT: 1  ,  IRT: 0  ,  WT: 0  ,  termination status: Abnormal
+PID: 93 ,  CUT: 1  ,  IRT: 0  ,  WT: 0  ,  termination status: Normal
+PID: 22 ,  CUT: 1  ,  IRT: 0  ,  WT: 0  ,  termination status: Normal
+PID: 7 ,  CUT: 1  ,  IRT: 0  ,  WT: 0  ,  termination status: Normal
+PID: 38 ,  CUT: 1  ,  IRT: 0  ,  WT: 0  ,  termination status: Normal
+PID: 15 ,  CUT: 7  ,  IRT: 0  ,  WT: 0  ,  termination status: Normal
+PID: 24 ,  CUT: 3  ,  IRT: 0  ,  WT: 0  ,  termination status: Normal
+PID: 100 ,  CUT: 1  ,  IRT: 0  ,  WT: 0  ,  termination status: Abnormal
+PID: 78 ,  CUT: 1  ,  IRT: 0  ,  WT: 0  ,  termination status: Normal
+PID: 20 ,  CUT: 4  ,  IRT: 0  ,  WT: 0  ,  termination status: Normal
+PID: 88 ,  CUT: 1  ,  IRT: 0  ,  WT: 0  ,  termination status: Normal
+PID: 94 ,  CUT: 6  ,  IRT: 2  ,  WT: 21  ,  termination status: Normal
+PID: 41 ,  CUT: 6  ,  IRT: 2  ,  WT: 23  ,  termination status: Normal
+PID: 68 ,  CUT: 3  ,  IRT: 3  ,  WT: 25  ,  termination status: Abnormal
+PID: 47 ,  CUT: 5  ,  IRT: 2  ,  WT: 28  ,  termination status: Normal
+PID: 58 ,  CUT: 5  ,  IRT: 6  ,  WT: 35  ,  termination status: Normal
+PID: 52 ,  CUT: 6  ,  IRT: 1  ,  WT: 51  ,  termination status: Abnormal
+PID: 89 ,  CUT: 5  ,  IRT: 1  ,  WT: 52  ,  termination status: Normal
+PID: 36 ,  CUT: 7  ,  IRT: 3  ,  WT: 66  ,  termination status: Abnormal
+PID: 98 ,  CUT: 5  ,  IRT: 6  ,  WT: 74  ,  termination status: Abnormal
+PID: 46 ,  CUT: 13  ,  IRT: 9  ,  WT: 80  ,  termination status: Normal
+PID: 29 ,  CUT: 12  ,  IRT: 3  ,  WT: 90  ,  termination status: Normal
+PID: 53 ,  CUT: 2  ,  IRT: 6  ,  WT: 97  ,  termination status: Abnormal
+PID: 10 ,  CUT: 5  ,  IRT: 1  ,  WT: 103  ,  termination status: Normal
+PID: 65 ,  CUT: 9  ,  IRT: 1  ,  WT: 106  ,  termination status: Abnormal
+PID: 31 ,  CUT: 5  ,  IRT: 2  ,  WT: 107  ,  termination status: Abnormal
+PID: 18 ,  CUT: 4  ,  IRT: 3  ,  WT: 138  ,  termination status: Normal
+PID: 60 ,  CUT: 7  ,  IRT: 1  ,  WT: 141  ,  termination status: Normal
+PID: 43 ,  CUT: 2  ,  IRT: 1  ,  WT: 142  ,  termination status: Normal
+PID: 39 ,  CUT: 10  ,  IRT: 1  ,  WT: 167  ,  termination status: Normal
+PID: 87 ,  CUT: 9  ,  IRT: 1  ,  WT: 168  ,  termination status: Normal
+PID: 32 ,  CUT: 7  ,  IRT: 8  ,  WT: 174  ,  termination status: Normal
+PID: 35 ,  CUT: 3  ,  IRT: 2  ,  WT: 196  ,  termination status: Normal
+PID: 40 ,  CUT: 3  ,  IRT: 7  ,  WT: 209  ,  termination status: Normal
+PID: 12 ,  CUT: 4  ,  IRT: 16  ,  WT: 216  ,  termination status: Normal
+PID: 74 ,  CUT: 15  ,  IRT: 5  ,  WT: 250  ,  termination status: Normal
+PID: 17 ,  CUT: 3  ,  IRT: 4  ,  WT: 277  ,  termination status: Abnormal
+PID: 73 ,  CUT: 4  ,  IRT: 5  ,  WT: 298  ,  termination status: Normal
+PID: 5 ,  CUT: 6  ,  IRT: 3  ,  WT: 303  ,  termination status: Normal
+PID: 56 ,  CUT: 17  ,  IRT: 14  ,  WT: 5  ,  termination status: Normal
+PID: 57 ,  CUT: 9  ,  IRT: 5  ,  WT: 29  ,  termination status: Normal
+PID: 59 ,  CUT: 17  ,  IRT: 22  ,  WT: 84  ,  termination status: Normal
+PID: 2 ,  CUT: 7  ,  IRT: 6  ,  WT: 140  ,  termination status: Normal
+PID: 76 ,  CUT: 8  ,  IRT: 16  ,  WT: 211  ,  termination status: Normal
+PID: 34 ,  CUT: 10  ,  IRT: 4  ,  WT: 237  ,  termination status: Normal
+PID: 92 ,  CUT: 11  ,  IRT: 17  ,  WT: 267  ,  termination status: Abnormal
+PID: 97 ,  CUT: 8  ,  IRT: 8  ,  WT: 318  ,  termination status: Normal
+PID: 11 ,  CUT: 7  ,  IRT: 13  ,  WT: 328  ,  termination status: Normal
+PID: 27 ,  CUT: 16  ,  IRT: 2  ,  WT: 341  ,  termination status: Normal
+PID: 55 ,  CUT: 13  ,  IRT: 8  ,  WT: 391  ,  termination status: Normal
+PID: 90 ,  CUT: 14  ,  IRT: 17  ,  WT: 404  ,  termination status: Normal
+PID: 61 ,  CUT: 15  ,  IRT: 6  ,  WT: 421  ,  termination status: Normal
+PID: 63 ,  CUT: 7  ,  IRT: 5  ,  WT: 436  ,  termination status: Normal
+PID: 64 ,  CUT: 8  ,  IRT: 7  ,  WT: 471  ,  termination status: Abnormal
+PID: 70 ,  CUT: 14  ,  IRT: 10  ,  WT: 478  ,  termination status: Normal
+PID: 79 ,  CUT: 8  ,  IRT: 4  ,  WT: 496  ,  termination status: Normal
+PID: 84 ,  CUT: 13  ,  IRT: 4  ,  WT: 508  ,  termination status: Normal
+PID: 4 ,  CUT: 15  ,  IRT: 16  ,  WT: 21  ,  termination status: Normal
+PID: 82 ,  CUT: 13  ,  IRT: 10  ,  WT: 59  ,  termination status: Normal
+PID: 95 ,  CUT: 15  ,  IRT: 27  ,  WT: 75  ,  termination status: Normal
+PID: 91 ,  CUT: 19  ,  IRT: 7  ,  WT: 133  ,  termination status: Abnormal
+PID: 66 ,  CUT: 19  ,  IRT: 5  ,  WT: 162  ,  termination status: Normal
+PID: 69 ,  CUT: 8  ,  IRT: 13  ,  WT: 288  ,  termination status: Normal
+PID: 48 ,  CUT: 17  ,  IRT: 6  ,  WT: 341  ,  termination status: Abnormal
+PID: 49 ,  CUT: 10  ,  IRT: 9  ,  WT: 452  ,  termination status: Normal
+PID: 80 ,  CUT: 7  ,  IRT: 19  ,  WT: 517  ,  termination status: Normal
+PID: 50 ,  CUT: 10  ,  IRT: 11  ,  WT: 569  ,  termination status: Normal
+PID: 83 ,  CUT: 9  ,  IRT: 17  ,  WT: 56  ,  termination status: Abnormal
+PID: 14 ,  CUT: 21  ,  IRT: 8  ,  WT: 140  ,  termination status: Normal
+PID: 16 ,  CUT: 16  ,  IRT: 21  ,  WT: 155  ,  termination status: Normal
+PID: 3 ,  CUT: 9  ,  IRT: 39  ,  WT: 540  ,  termination status: Abnormal
+PID: 6 ,  CUT: 14  ,  IRT: 13  ,  WT: 676  ,  termination status: Normal
+PID: 8 ,  CUT: 12  ,  IRT: 24  ,  WT: 252  ,  termination status: Normal
+PID: 37 ,  CUT: 23  ,  IRT: 39  ,  WT: 300  ,  termination status: Abnormal
+PID: 77 ,  CUT: 14  ,  IRT: 23  ,  WT: 355  ,  termination status: Normal
+PID: 9 ,  CUT: 12  ,  IRT: 32  ,  WT: 506  ,  termination status: Normal
+PID: 28 ,  CUT: 18  ,  IRT: 29  ,  WT: 670  ,  termination status: Normal
+PID: 30 ,  CUT: 21  ,  IRT: 25  ,  WT: 0  ,  termination status: Normal
+PID: 96 ,  CUT: 19  ,  IRT: 20  ,  WT: 189  ,  termination status: Normal
+PID: 54 ,  CUT: 20  ,  IRT: 13  ,  WT: 487  ,  termination status: Normal
+PID: 1 ,  CUT: 11  ,  IRT: 32  ,  WT: 508  ,  termination status: Normal
+PID: 25 ,  CUT: 42  ,  IRT: 19  ,  WT: 305  ,  termination status: Abnormal
+PID: 23 ,  CUT: 34  ,  IRT: 65  ,  WT: 427  ,  termination status: Normal
+PID: 19 ,  CUT: 27  ,  IRT: 34  ,  WT: 238  ,  termination status: Normal
