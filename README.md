@@ -43,7 +43,7 @@ The main For Project class    | Lama   |
 
 # Instructions on how to execute the program. 
 
-#### First step
+#### * First step
 Clone the project repository via GitHub or download it from the LMS.
 
 #### Second step
