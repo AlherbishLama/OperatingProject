@@ -15,7 +15,7 @@ In this project, we are required to program a simulation of a simple multiprogra
 
 # Work team
 
-|  |   ## Name                  |    
+|  |           Name             |    
 | ------------- | ------------- | 
 |1 |      Reema Alshowmer       |
 |2 |      Haneen Alkhalaf       |          
