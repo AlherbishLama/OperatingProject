@@ -15,16 +15,15 @@ In this project, we are required to program a simulation of a simple multiprogra
 
 # Work team
 
-##     Name                 
- ``` 
-1      Reema Alshowmer      
- ``` 
-2      Haneen Alkhalaf             
-3      Rahaf Bin Mohanna        
-4      Lama Alherbish             
+|  |   ## Name                  |    
+| ------------- | ------------- | 
+|1 |      Reema Alshowmer       |
+|2 |      Haneen Alkhalaf       |          
+|3 |      Rahaf Bin Mohanna     |        
+|4 |      Lama Alherbish        |        
 
 
-# B
+# Task distribution 
 
 | Task                                       |       Name         |
 | ------------- | ------------- | 
@@ -65,7 +64,7 @@ Job.txt file should contain this info for each job from the100 generated jobs (J
 * #of jobs completed normally/abnormally 
 * CPU/IO Utilization %
 * AVR waiting time.
-* # of jobs served by IO devices
+* #of jobs served by IO devices
 Both Job.txt file and Result .txt will. located in OperatingProject directory.
 
 # Goals
