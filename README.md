@@ -43,16 +43,13 @@ The main For Project class    | Lama   |
 
 # Instructions on how to execute the program. 
 
-#### * First step
+#### First step
 Clone the project repository via GitHub or download it from the LMS.
-
 #### Second step
 Import the project into your favorite IDE (eg Eclipse)
-
 #### Third step
 run the ThemainForProject.java The bath of this class is
 OperatingProject-->src--> ThemainForProject.java
-
 #### Fourth step
 after excision the main you should notice the output of the program in the IDE console +Job.txt file +Result.txt file the output represented the simulation process.
 the flow of the output in the console should be generate and read Job.txt file print the info of all the process (100) generating the result file.
