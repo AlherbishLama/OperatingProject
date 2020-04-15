@@ -2,13 +2,13 @@
 
 In this project, we are required to program a simulation of a simple multiprogramming batch operating system. 
 
-## The system hardware specifications:
+### The system hardware specifications:
 * A single-core CPU.
 * A hard disk with 2 GB available for user programs.
 * A RAM with 192 MB available for user programs.
 * A single IO device.
 
-## The simulation covers two features of the operating system:
+### The simulation covers two features of the operating system:
 * Job scheduling: The operating system maintains a single job queue. Job Scheduler follows the Smallest Storage Requirement (SSR) policy.
 * Process scheduling. The operating system maintains a single ready queue and a single I/O queue. CPU Scheduler follows the First-Come, First-Served (FCFS) scheduling algorithm policy.
 
